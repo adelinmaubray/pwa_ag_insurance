@@ -1,0 +1,20 @@
+{
+    "name": "Hello World AG Insurance",
+    "short_name": "HelloAG",
+    "description": "The Hello World test of PWA for AG Insurance - IS_Mobile",
+    "icons": [{
+        "src": "/images/ag_insurance.png",
+        "sizes": "128x128",
+        "type": "image/png"
+    },{
+        "src": "/images/icon-144x144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+    }
+             ],
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#FFFAFA",
+    "theme_color": "#4682B4"
+}
